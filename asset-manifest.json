@@ -1,15 +1,21 @@
 {
   "files": {
     "main.css": "/weiss-finisher-sim/static/css/main.073c9b0a.css",
-    "main.js": "/weiss-finisher-sim/static/js/main.2122e8ae.js",
+    "main.js": "/weiss-finisher-sim/static/js/main.5c2ff3c1.js",
     "static/js/787.702585e8.chunk.js": "/weiss-finisher-sim/static/js/787.702585e8.chunk.js",
+    "static/media/musashi.png": "/weiss-finisher-sim/static/media/musashi.2581bf51b47923fe16f2.png",
+    "static/media/marine.png": "/weiss-finisher-sim/static/media/marine.210a0eb5b7d60b81c797.png",
+    "static/media/towa.png": "/weiss-finisher-sim/static/media/towa.2b2d98cf3b9c9614939d.png",
+    "static/media/examplefield.png": "/weiss-finisher-sim/static/media/examplefield.a15df92630a5725ae1b7.png",
+    "static/media/shinano.jpg": "/weiss-finisher-sim/static/media/shinano.7fc5302c44a5035c1580.jpg",
+    "static/media/malin.jpg": "/weiss-finisher-sim/static/media/malin.e5e032bf28321c4402aa.jpg",
     "index.html": "/weiss-finisher-sim/index.html",
     "main.073c9b0a.css.map": "/weiss-finisher-sim/static/css/main.073c9b0a.css.map",
-    "main.2122e8ae.js.map": "/weiss-finisher-sim/static/js/main.2122e8ae.js.map",
+    "main.5c2ff3c1.js.map": "/weiss-finisher-sim/static/js/main.5c2ff3c1.js.map",
     "787.702585e8.chunk.js.map": "/weiss-finisher-sim/static/js/787.702585e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2122e8ae.js"
+    "static/js/main.5c2ff3c1.js"
   ]
 }
