@@ -1,5 +1,11 @@
 import React, { Component } from "react";
 import styled from "styled-components";
+import Shinano from "../images/shinano.jpg";
+import Marine from "../images/marine.png";
+import Malin from "../images/malin.jpg";
+import Musashi from "../images/musashi.png";
+import Towa from "../images/towa.png";
+import ExampleBoard from "../images/examplefield.png";
 
 class Disclaimer extends Component {
   state = {
@@ -39,9 +45,9 @@ class Disclaimer extends Component {
                   <Description>
                     2. BURN: Additional damage, you can put more than one at the
                     beginning of the attack list to simulate playing events that
-                    burn. Ie. Marine (Hololive){" "}
+                    burn. Ie. Marine (Hololive)
                   </Description>
-                  <ExampleImage src="/images/marine.png"></ExampleImage>
+                  <ExampleImage src={Marine}></ExampleImage>
                 </DescriptionCards>
 
                 <DescriptionCards>
@@ -52,7 +58,7 @@ class Disclaimer extends Component {
                     swing attack; none of the other effects check for this
                     effect on cancel of damage. Ie. Le Matin (Azur Lane)
                   </Description>
-                  <ExampleImage src="/images/malin.jpg"></ExampleImage>
+                  <ExampleImage src={Malin}></ExampleImage>
                 </DescriptionCards>
                 <DescriptionCards>
                   <Description>
@@ -60,7 +66,7 @@ class Disclaimer extends Component {
                     deck, and burn y (usually 1), z times; where z is the amount
                     of CXs milled. Ie. Shinano (Azur Lane)
                   </Description>
-                  <ExampleImage src="/images/shinano.jpg"></ExampleImage>
+                  <ExampleImage src={Shinano}></ExampleImage>
                 </DescriptionCards>
                 <DescriptionCards>
                   <Description>
@@ -70,7 +76,7 @@ class Disclaimer extends Component {
                     try for yourself though. (check notes at bottom for
                     problems)
                   </Description>
-                  <ExampleImage src="/images/towa.png"></ExampleImage>
+                  <ExampleImage src={Towa}></ExampleImage>
                 </DescriptionCards>
                 <DescriptionCards>
                   <Description>
@@ -78,7 +84,7 @@ class Disclaimer extends Component {
                     off of the level of cards put in your deck. (check notes at
                     bottom for problems)
                   </Description>
-                  <ExampleImage src="/images/musashi.png"></ExampleImage>
+                  <ExampleImage src={Musashi}></ExampleImage>
                 </DescriptionCards>
                 <Description>
                   PROBLEMS: The X button on the attacks does not work, just
@@ -106,7 +112,7 @@ class Disclaimer extends Component {
                 </Description>
                 <br />
                 <Description>EXAMPLE BOARD:</Description>
-                <ExampleField src="/images/examplefield.png"></ExampleField>
+                <ExampleField src={ExampleBoard}></ExampleField>
               </DescriptionContainer>
             </Content>
           )}
