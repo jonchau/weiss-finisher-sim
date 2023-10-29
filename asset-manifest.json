@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weiss-finisher-sim/static/css/main.073c9b0a.css",
+    "main.js": "/weiss-finisher-sim/static/js/main.2122e8ae.js",
+    "static/js/787.702585e8.chunk.js": "/weiss-finisher-sim/static/js/787.702585e8.chunk.js",
+    "index.html": "/weiss-finisher-sim/index.html",
+    "main.073c9b0a.css.map": "/weiss-finisher-sim/static/css/main.073c9b0a.css.map",
+    "main.2122e8ae.js.map": "/weiss-finisher-sim/static/js/main.2122e8ae.js.map",
+    "787.702585e8.chunk.js.map": "/weiss-finisher-sim/static/js/787.702585e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2122e8ae.js"
+  ]
+}
